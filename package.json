@@ -5,9 +5,9 @@
   "engines": {
     "node": "14.x"
   },
-  "main": "index.js",
+  "main": "E7.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node E7.js",
     "test": "node test.js"
   },
   "dependencies": {
