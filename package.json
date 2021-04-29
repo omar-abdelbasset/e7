@@ -2,10 +2,10 @@
   "name": "express-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "E7.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node E7.js"
   },
   "keywords": [],
   "author": "",
